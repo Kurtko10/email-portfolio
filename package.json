@@ -1,0 +1,17 @@
+{
+  "name": "email-portfolio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build:01": "juice campaigns/01-promo-retail/src/index.html campaigns/01-promo-retail/dist/index.html --preserve-media-queries"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "juice": "^11.1.0"
+  }
+  
+}

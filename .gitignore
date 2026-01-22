@@ -1,0 +1,21 @@
+# --- OS / System ---
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# --- Logs ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Node / tooling ---
+node_modules/
+
+# --- Editor (keep project settings) ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+
+# --- Optional: keep dist tracked (DO NOT ignore dist) ---
+# (We want dist/ in this portfolio repo)
